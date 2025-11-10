@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Ardian!</strong></summary>
-Lifelong Learner, currently life as student.
+I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis. Lifelong Learner, currently life as student.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -17,7 +17,6 @@ Lifelong Learner, currently life as student.
     - 😄 Pronouns: Hi/Him. </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=searchforsyaa&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searchforsyaa&layout=compact" height=180 />
 </p> 
     
