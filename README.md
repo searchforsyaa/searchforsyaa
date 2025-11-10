@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Ardian!</strong></summary>
-I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis. Lifelong Learner, currently life as student.
+I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
