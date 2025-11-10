@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Ardian!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+Lifelong Learner, currently life as student.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -9,13 +9,18 @@ Lifelong Learner, currently working as budagh kompeni.
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
-<p>
+<details>
     - :keyboard: I’m currently learning Machine Learning. </br>
-    - :speech_balloon: Ask me about anything.</br>
+    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 💬 Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muh.ardiansyah0410@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: Her. </br>
+    - 😄 Pronouns: Hi/Him. </br>
+<details>
 <p>
- 
+    <img src="https://github-readme-stats.vercel.app/api?username=searchforsyaae&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searchforsyaa&layout=compact" height=180 />
+</p> 
+    
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/searchforsyaa/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
