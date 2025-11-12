@@ -14,7 +14,7 @@ I'm a statistics student at Sebelas Maret University, passionate about data scie
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muh.ardiansyah0410@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: Hi/Him. </br>
+    - 😄 Pronouns: He/Him. </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searchforsyaa&layout=compact" height=180 />
