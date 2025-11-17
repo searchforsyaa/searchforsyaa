@@ -1,30 +1,26 @@
-# <summary><strong>Hi there :wave: , I'm Ardian!</strong></summary>
-I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<h1 align="center">Muhammad Ardiansyah</h1>
+<h3 align="center" style="color:#a74ce2;">Statistics & Data Science Enthusiast</h3>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Notebook-Google%20Colab-orange?&logo=googlecolab&logoColor=white" />
-</p>
 
-### <summary><strong>What i am learning/working on these days</strong></summary>
-<details>
-    - :keyboard: I’m currently learning Machine Learning. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:muh.ardiansyah0410@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him. </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searchforsyaa&layout=compact" height=180 />
-</p> 
-    
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/searchforsyaa/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-ardiansyah-b79755288/" target="_blank">
-  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+# 💫 About Me:
+Statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/searchforsyaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ardiansyah-b79755288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muh.ardiansyah0410@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=searchforsyaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=searchforsyaa&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=searchforsyaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=searchforsyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=searchforsyaa&icon=9&color=6)](https://visitcount.itsvg.in)
+
+
+<img src="https://raw.githubusercontent.com/searchforsyaa/searchforsyaa/output/snake.svg" alt="Snake animation" />
