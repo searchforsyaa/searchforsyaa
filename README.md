@@ -6,6 +6,7 @@ I'm a statistics student at Sebelas Maret University, passionate about data scie
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Notebook-Google%20Colab-orange?&logo=googlecolab&logoColor=white" />
 </p>
 
 ### <summary><strong>What i am learning/working on these days</strong></summary>
