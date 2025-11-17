@@ -1,9 +1,9 @@
-<h1 align="center">Muhammad Ardiansyah</h1>
-<h3 align="center" style="color:#a74ce2;">Statistics & Data Science Enthusiast</h3>
+<h1 align="left">Muhammad Ardiansyah</h1>
+<h3 align="left" style="color:#a74ce2;">Statistics & Data Science Enthusiast</h3>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljd2pyZGpqbjFzemJ3YmttNjVsaXJ3b2ZpY2Y0ejhvdmM4cmQ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljd2pyZGpqbjFzemJ3YmttNjVsaXJ3b2ZpY2Y0ejhvdmM4cmQ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.gif"  />
 
 ###
 
@@ -29,8 +29,6 @@ Statistics student at Sebelas Maret University, passionate about data science, m
 
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/searchforsyaa/searchforsyaa/output/snake.svg" alt="Snake animation" />
 
